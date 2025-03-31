@@ -1,2 +1,1 @@
-# CMSE401-Project-
-Stock Market Prediction Model
+# CMSE401-Project
